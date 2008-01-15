@@ -38,6 +38,4 @@
 
 -behavior(gen_erml).
 
--export([list/0]).
-
-list() -> [].
+-export([]).
